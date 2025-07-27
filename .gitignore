@@ -44,6 +44,10 @@ coverage/
 *.jpg
 *.jpeg
 *.gif
+!screenshots/*.png
+!screenshots/*.jpg
+!screenshots/*.jpeg
+!screenshots/*.gif
 
 # Temporary files
 *.tmp
